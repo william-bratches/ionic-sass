@@ -13,7 +13,7 @@ legend {
   display: block;
   margin-bottom: $line-height-base;
   padding: 0;
-  width: 100%;
+  width: 100%;tel
   border: $input-border-width solid $input-border;
   color: $dark;
   font-size: $font-size-base * 1.5;
@@ -194,7 +194,6 @@ input[type="number"],
 input[type="email"],
 input[type="url"],
 input[type="search"],
-input[type="tel"],
 input[type="color"] {
   display: block;
   padding-top: 2px;
@@ -248,7 +247,6 @@ input[type="number"],
 input[type="email"],
 input[type="url"],
 input[type="search"],
-input[type="tel"],
 input[type="color"] {
   border: 0;
 }
